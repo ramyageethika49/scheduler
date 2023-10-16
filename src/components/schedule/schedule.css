@@ -1,0 +1,19 @@
+.schedule-item{
+display: flex;
+/* padding: 5px; */
+margin: 10px 0;
+/* background-color: aquamarine; */
+}
+.label{
+    width: 20%;
+
+}
+.day{
+ width: 15%;
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
